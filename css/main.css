@@ -806,7 +806,6 @@ body.overflow {
 @media (min-width: 1024px) {
     .faq-section-wrap {
         padding: 16.5rem 0 10.9rem;
-        background-image: url("../images/ing.jpg");
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
